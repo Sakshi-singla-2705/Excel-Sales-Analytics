@@ -1,4 +1,6 @@
-# Excel--Sales_Analytics_Report
+# Excel--Sales_&_Finance_Analytics_Report
+### This repository showcases my project focused on analyzing sales and finance data using advanced Excel features such as Power Query, Power Pivot, and DAX. It contains detailed reports aimed at delivering actionable insights and enabling data-driven strategic decision
+------
 
 ## Company: AtliQ Hardwares
 AtliQ Hardware is a renowned company that excels in offering a diverse range of high-quality hardware products. They specilizes in selling hardware products like PCs, mouse, printers, and keyboards, catering to both personal and professional needs. These products are made accessible through a robust distribution network that encompasses retail stores, popular eCommerce platforms, and AtliQ's exclusive branded outlets.
@@ -20,11 +22,11 @@ These reports includes -
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Sakshi-singla-2705/Excel-Sales-Analytics/blob/main/Market_performance_vs_target.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Sales analytics empowers businesses to track and evaluate their sales activities and overall performance, enabling data-driven decision-making for better outcomes.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** By examining sales data, businesses can identify key trends, monitor essential KPIs, and refine strategies to enhance efficiency and profitability.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Sales reports are instrumental in determining effective discount strategies, assisting in client negotiations, and uncovering opportunities for expansion in high-growth markets.
 
 
 ## Finance Report :
@@ -37,11 +39,11 @@ These reports includes -
 
   **3.** Finding [Top 10 Products](https://github.com/Sakshi-singla-2705/Excel-Sales-Analytics/blob/main/Top_10_products.pdf) 
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** Financial analytics helps assess an organization's financial health, guides strategic decision-making, and improves stakeholder communication.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Examining financial data allows businesses to benchmark against industry standards and past performance while enabling precise budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Financial reports ensure financial planning aligns with business objectives and strengthen stakeholder trust in the company’s financial strategy.
 
 
 ## Technical & Soft Skills:
